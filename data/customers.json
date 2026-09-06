@@ -1,0 +1,52 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Arun Kumar",
+    "email": "arun@example.com",
+    "total_transactions": 12,
+    "successful_transactions": 11,
+    "failed_transactions": 1,
+    "total_spent": 24500,
+    "customer_type": "regular"
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Priya Sharma",
+    "email": "priya@example.com",
+    "total_transactions": 5,
+    "successful_transactions": 2,
+    "failed_transactions": 3,
+    "total_spent": 8700,
+    "customer_type": "new"
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Rahul Menon",
+    "email": "rahul@example.com",
+    "total_transactions": 25,
+    "successful_transactions": 24,
+    "failed_transactions": 1,
+    "total_spent": 98500,
+    "customer_type": "premium"
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Sneha Patel",
+    "email": "sneha@example.com",
+    "total_transactions": 8,
+    "successful_transactions": 6,
+    "failed_transactions": 2,
+    "total_spent": 15200,
+    "customer_type": "regular"
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Vikram Singh",
+    "email": "vikram@example.com",
+    "total_transactions": 3,
+    "successful_transactions": 1,
+    "failed_transactions": 2,
+    "total_spent": 120000,
+    "customer_type": "high_value"
+  }
+]

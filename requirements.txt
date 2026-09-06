@@ -1,0 +1,9 @@
+openai
+streamlit
+langgraph
+fastapi
+uvicorn
+pandas
+python-dotenv
+httpx
+pymongo

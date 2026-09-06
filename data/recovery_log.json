@@ -1,0 +1,50 @@
+[
+  {
+    "transaction_id": "TXN1001",
+    "action": "RETRY_PAYMENT",
+    "status": "FAILED",
+    "timestamp": "2026-09-05 20:57:39"
+  },
+  {
+    "transaction_id": "TXN1002",
+    "action": "GENERATE_PAYMENT_LINK",
+    "status": "LINK_GENERATED",
+    "timestamp": "2026-09-05 20:57:39"
+  },
+  {
+    "transaction_id": "TXN1005",
+    "action": "ESCALATE_TO_HUMAN",
+    "status": "ESCALATED",
+    "timestamp": "2026-09-05 20:57:39"
+  },
+  {
+    "transaction_id": "TXN1002",
+    "action": "SEND_CUSTOMER_MESSAGE",
+    "status": "MESSAGE_SENT",
+    "timestamp": "2026-09-05 21:01:24"
+  },
+  {
+    "transaction_id": "TXN1009",
+    "action": "GENERATE_PAYMENT_LINK",
+    "status": "LINK_GENERATED",
+    "timestamp": "2026-09-05 21:01:44"
+  },
+  {
+    "transaction_id": "TXN1001",
+    "action": "RETRY_PAYMENT",
+    "status": "FAILED",
+    "timestamp": "2026-09-05 21:02:04"
+  },
+  {
+    "transaction_id": "TXN1001",
+    "action": "GENERATE_PAYMENT_LINK",
+    "status": "LINK_GENERATED",
+    "timestamp": "2026-09-05 21:02:04"
+  },
+  {
+    "transaction_id": "TXN1001",
+    "action": "SEND_CUSTOMER_MESSAGE",
+    "status": "MESSAGE_SENT",
+    "timestamp": "2026-09-05 21:02:04"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "transaction_id": "TXN1001",
+    "customer_id": "CUST001",
+    "amount": 2499,
+    "payment_method": "UPI",
+    "status": "FAILED",
+    "failure_reason": "NETWORK_ERROR",
+    "timestamp": "2026-09-05 10:15:00"
+  },
+  {
+    "transaction_id": "TXN1002",
+    "customer_id": "CUST002",
+    "amount": 5999,
+    "payment_method": "CARD",
+    "status": "FAILED",
+    "failure_reason": "CARD_EXPIRED",
+    "timestamp": "2026-09-05 11:20:00"
+  },
+  {
+    "transaction_id": "TXN1003",
+    "customer_id": "CUST003",
+    "amount": 14999,
+    "payment_method": "CREDIT_CARD",
+    "status": "FAILED",
+    "failure_reason": "BANK_DECLINED",
+    "timestamp": "2026-09-05 12:05:00"
+  },
+  {
+    "transaction_id": "TXN1004",
+    "customer_id": "CUST004",
+    "amount": 1999,
+    "payment_method": "UPI",
+    "status": "FAILED",
+    "failure_reason": "INSUFFICIENT_FUNDS",
+    "timestamp": "2026-09-05 13:10:00"
+  },
+  {
+    "transaction_id": "TXN1005",
+    "customer_id": "CUST005",
+    "amount": 85000,
+    "payment_method": "CREDIT_CARD",
+    "status": "FAILED",
+    "failure_reason": "SUSPICIOUS_ACTIVITY",
+    "timestamp": "2026-09-05 14:30:00"
+  },
+  {
+    "transaction_id": "TXN1006",
+    "customer_id": "CUST001",
+    "amount": 1200,
+    "payment_method": "UPI",
+    "status": "SUCCESS",
+    "failure_reason": null,
+    "timestamp": "2026-09-05 09:00:00"
+  },
+  {
+    "transaction_id": "TXN1007",
+    "customer_id": "CUST003",
+    "amount": 4999,
+    "payment_method": "UPI",
+    "status": "SUCCESS",
+    "failure_reason": null,
+    "timestamp": "2026-09-05 09:30:00"
+  },
+  {
+    "transaction_id": "TXN1008",
+    "customer_id": "CUST004",
+    "amount": 3500,
+    "payment_method": "CARD",
+    "status": "SUCCESS",
+    "failure_reason": null,
+    "timestamp": "2026-09-05 09:45:00"
+  },
+  {
+    "transaction_id": "TXN1009",
+    "customer_id": "CUST002",
+    "amount": 999,
+    "payment_method": "UPI",
+    "status": "FAILED",
+    "failure_reason": "INSUFFICIENT_FUNDS",
+    "timestamp": "2026-09-05 15:00:00"
+  },
+  {
+    "transaction_id": "TXN1010",
+    "customer_id": "CUST003",
+    "amount": 2999,
+    "payment_method": "CARD",
+    "status": "FAILED",
+    "failure_reason": "NETWORK_ERROR",
+    "timestamp": "2026-09-05 15:30:00"
+  }
+]

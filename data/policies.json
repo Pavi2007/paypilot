@@ -1,0 +1,22 @@
+{
+  "NETWORK_ERROR": {
+    "action": "RETRY_PAYMENT",
+    "description": "Temporary network issue. Retry the payment once."
+  },
+  "INSUFFICIENT_FUNDS": {
+    "action": "GENERATE_PAYMENT_LINK",
+    "description": "Customer may need another payment method. Generate a payment link."
+  },
+  "CARD_EXPIRED": {
+    "action": "UPDATE_PAYMENT_METHOD",
+    "description": "The customer's card has expired. Ask the customer to update their payment method."
+  },
+  "BANK_DECLINED": {
+    "action": "SEND_PAYMENT_LINK",
+    "description": "The bank declined the transaction. Provide an alternative payment method."
+  },
+  "SUSPICIOUS_ACTIVITY": {
+    "action": "ESCALATE_TO_HUMAN",
+    "description": "Potentially suspicious transaction. Do not retry automatically. Send for human review."
+  }
+} 
