@@ -56,3 +56,8 @@ Transaction + Customer History + Merchant Policy
  Verify Result
       ↓
  Recovery Audit Log
+ 
+ 
+ ## 🏗️ Architecture
+
+![PayPilot Architecture](paypilot-architecture.png)
